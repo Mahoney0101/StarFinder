@@ -1,0 +1,43 @@
+# Ignore build results
+bin/
+obj/
+
+# User-specific files
+.idea/
+.vscode/
+
+# User-specific files for Visual Studio
+.vs/
+.vs2019/
+.vs2017/
+.vs2015/
+
+# User-specific files for Rider
+.idea/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer logs
+*.log
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer logs
+*.log
+
+# .NET Core / .NET 5+ SDKs, etc.
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Core
+wwwroot/
+*user
